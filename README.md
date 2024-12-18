@@ -6,7 +6,11 @@
 Develop a Full-Stack application that enables administrators to add employees to the system with
 proper form validation. The solution should ensure data integrity, a user-friendly experience, and a
 secure submission process.
+
+
 Requirements:
+
+
 Functional Requirements:
 1. Add Employee:
 - Provide a form to add new employees with the following fields:
